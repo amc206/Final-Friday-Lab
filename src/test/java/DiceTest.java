@@ -9,7 +9,6 @@ public class DiceTest
     @Test
     void getSides()
     {
-        //Dice testDice = new Dice();
 
     }
 
