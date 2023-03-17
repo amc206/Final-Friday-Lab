@@ -10,20 +10,20 @@ public class DiceTest
     //Dice testDice = new Dice(1, "green");
 
     @Test
-    void getSides()
+    void testGetSides()
     {
     }
 
     @Test
-    void getColor()
+    void testGetColor()
     {
     }
 
     @Test
-    void roll() {
+    void testRoll() {
     }
 
     @Test
-    void rollMany() {
+    void testRollMany() {
     }
 }
