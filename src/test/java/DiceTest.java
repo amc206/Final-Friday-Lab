@@ -7,8 +7,6 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class DiceTest
 {
-    //Dice testDice = new Dice(1, "green");
-
     @Test
     void testGetSides()
     {
